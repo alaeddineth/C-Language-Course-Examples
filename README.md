@@ -1,4 +1,3 @@
-# C-Language-Course-Examples
 # INDP1E/INDP1F C Language Course Repository
 
 Welcome to the repository for the C Language Course for engineering students at the Higher School of Education of Tunis, INDP1E and INDP1F. This repository contains resources and project examples to support your learning journey.
