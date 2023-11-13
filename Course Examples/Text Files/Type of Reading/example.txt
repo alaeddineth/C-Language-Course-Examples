@@ -1,0 +1,4 @@
+This is an example file for reading.
+It contains multiple lines of text.
+Each line is terminated with a newline character.
+The total number of lines is limited for illustration purposes.
