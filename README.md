@@ -33,11 +33,9 @@ This repository has been created to accompany the C Language Course, providing a
 ## Projects
 
 Explore the practical side of the course through hands-on projects designed to reinforce the concepts covered in the sessions.
-
-- **Project 1:** [Lab 1](Course-Examples)
+- **Folder 1:** [TP1](/TP1-Correction)
   - You will find the Lab 1 solution.
-
-- **Project 2:** [Course Examples](/TP1-Correction)
+- **Folder 2:** [Example de cours](Course-Examples)
   - Explore course examples on file operations.
 
 ## How to Use This Repository
